@@ -1,0 +1,209 @@
+
+
+*,div,p,ul{
+    padding: 0px;
+    margin: 0px;
+    
+}
+body{
+    font-family: "b yekan";
+    background: #f1f1f1;
+    
+}
+
+a{
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+    color: #ecf0f1;
+    padding: 0px;
+    margin: 0px;
+}
+
+li{
+    float: right;
+    list-style: none;
+}
+.allweb{
+    float: right;
+    width: 100%;
+    height: auto;
+}
+.topmenu{
+    float: left;
+    width: 100%;
+    height:auto;
+    background: #34495e;
+    
+}
+.topmenu ul, li, a {
+    margin: 0px;
+    margin-left: 0px;
+    float: left;
+    padding:10px;
+    
+}
+.topmenu a:hover{
+    background: #e74c3c;
+}
+.slider{
+    float: right;
+    width: 100%;
+    height: auto;
+    margin: 2% 0;
+}
+
+.content-werapp{
+    float: right;
+    width: 100%;
+    height: auto;
+}
+.content-box{
+    text-align: center;
+    float: right;
+    width: 30%;
+    height: 300px;
+    background: #34495e;
+    margin: 0px 2% 5px 0; 
+}
+
+.content-head{
+    padding: 6px 0;
+    background: #2c3e60;
+    font-size: 25px; 
+    color: whitesmoke;
+}
+
+.content-body{
+    
+    float: right;
+    width: 100%;
+    height: 200%;    
+}
+.content-body img{  
+    width: 100%;
+    height: auto;  
+}
+.content-txt{
+    float: right;
+    width: 97%;
+    height: 70px;
+    margin: 0 2px;
+    font-size: 15px;
+    text-align: justify;
+    color: window;
+}
+.content-width-box{
+    float: right;
+    width: 94%;
+    height: 300px;
+    margin: 1% 20% 1% 0px;
+    background:#34495e; 
+    
+}
+.content-width-box img{
+    float: right;
+    height: 100%;
+    width: 32%;
+}
+.content-width-box-title{
+    padding: 6px 0;
+    text-align: center;
+    width: 68%;
+    height: auto;
+    background: #2c3e60;
+    font-size: 30px;
+    color: whitesmoke;
+}
+.content-width-box-txt{
+    
+    text-align: justify;
+    width: 65%;
+    height: 65%;
+    color: window;
+    font-size: 20px;
+    margin: 0% 2% ;
+    
+}
+.content-width-box-footer{
+    
+    float: left;
+    margin: 2% 0 0 0 ;
+    font-size: 30px;
+    
+}
+.content-width-box-footer a:hover{
+   background: #e74c3c; 
+}
+.footer{
+    float: right;
+    max-height:auto;
+    width: 100%;
+    background: #34495e;
+}
+.footer-menue{
+    width: 100%;
+    max-height: auto;
+    float: right;
+}
+.footer-menue ul,i,a{
+    padding: 10px;
+    margin: 5px;
+    font-size: 25px;
+}
+.footer-menue ul,i,a:hover{
+    padding-right: 20px;
+    background: #34380e;
+}
+.social{
+    float: right;
+    width: 100%;
+    height: auto;
+    font-size: 30px;
+}
+.social li{
+    margin: 5px;
+}
+.footer-copyright{
+   text-align: center; 
+   font-style: italic;
+   
+   
+}
+
+/*** for read more page***/
+.rd-content{
+    float: right;
+    width: 95%;
+    min-height: 400px;
+    height: auto;
+    margin: 6% 2% 6% 0px;
+    background:#34495e; 
+    
+}
+.rd-content img{
+    float: right;
+    margin: 2% 2%;
+    width: 45%;
+    height: auto;
+}
+.rd-content-title{
+    text-align: center;
+    font-size: 28px;
+    float: right;
+    width: 50%;
+    height: auto;
+    color: window;
+    margin-top: 1%;
+    background: #2c3e60;
+}
+.rd-content-txt{
+    text-align: justify;
+    width: 50%;
+    height: auto;
+    color: window;
+    font-size: 20px;
+    margin: 6% 1%;
+}
+
+
+                     
